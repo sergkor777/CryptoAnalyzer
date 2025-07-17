@@ -1,1 +1,0 @@
-The Crypto analyzer allows you to encrypt and decrypt text using the Caesar cipher.
